@@ -1,6 +1,6 @@
 - 👋 Hola, mi nombre es Angel E.Sierra Gonzalez
 - 👀 Estoy interesada en el en desarrollo de sotware
-- 🌱 actualmente estoy aprendiendo c++
+- 🌱 actualmente estoy aprendiendo c++ y pyhon
 - 💞️ Estoy buscando colaborar en....
 - 📫 como llegar a mi atraves de mi numero telefonico (829)-985-1779
 - 😄 Pronombres: realmente no tengo ...
